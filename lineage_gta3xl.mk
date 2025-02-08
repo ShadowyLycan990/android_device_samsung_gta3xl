@@ -15,7 +15,7 @@ $(call inherit-product, vendor/lineage/config/common_full_tablet.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := gta3xl
-PRODUCT_NAME := samsung_gta3xl
+PRODUCT_NAME := lineage_gta3xl
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T515
 PRODUCT_MANUFACTURER := samsung
