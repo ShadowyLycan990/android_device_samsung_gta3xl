@@ -15,7 +15,7 @@ From [gta3xlwifi-dev/device_samsung_gta3xlwifi](https://github.com/gta3xlwifi-de
 | CPU   | Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53) |
 | GPU | Mali-G71 MP2 |
 | Memory | 2GB/3GB RAM, LPDDR3 |
-| Shipped Android Version | 9.0 (Pie), upgradable to Android 11 with One UI 3.0 |
+| Shipped Android Version | 9.0 (Pie), upgradable to Android 11 with One UI 3.0, 32 Bit mode (arm32_binder) |
 | Battery | Non-removable Li-Po 6150 mAh battery |
 | Storage | 16GB/32GB/64GB/128GB, eMMC 5.1 |
 | Battery | Non-removable Li-Po 6150 mAh battery |
